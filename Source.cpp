@@ -9,12 +9,12 @@ int Current_Year;
 int main()
 {
 	int Birth_Year;
-	int	Current_Month;
-	int	Birth_Month;
-	int	Age_Month;
-	int	Age_Year;
-	int	Address_length_1;
-	int	Address_length_2;
+	int Current_Month;
+	int Birth_Month;
+	int Age_Month;
+	int Age_Year;
+	int Address_length_1;
+	int Address_length_2;
 	int Loan_length;
 	int month_2;
 	int help;
